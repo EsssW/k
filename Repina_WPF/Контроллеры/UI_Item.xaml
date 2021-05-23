@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="Repina_WPF.Контроллеры.UI_Item"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Repina_WPF.Контроллеры"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="150" MouseDown="UserControl_MouseDown">
+    <Border Background="#f7e37d" BorderBrush="#e09846" BorderThickness="2,2,2,2">
+        <Grid>
+            <Label FontSize="20" Content="Название"  x:Name="name_label" FontFamily="Constantia" Margin="0,0,0.2,81.2"/>
+            <Label FontSize="20" Content="Вес"   x:Name="size_label" FontFamily="Constantia" Margin="0,66,0.2,37.2"/>
+            <Label FontSize="20" Content="Цена:"   FontFamily="Constantia" Margin="0,110,82.2,0.2"/>
+            <Label FontSize="20" Content="0 руб"   x:Name="price_label" FontFamily="Constantia" Margin="65,110,0.2,0.2"/>
+            
+        </Grid>
+    </Border>
+</UserControl>

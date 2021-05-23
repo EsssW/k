@@ -1,0 +1,3 @@
+﻿promo10|10
+promo20|20
+promo30|30

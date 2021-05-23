@@ -1,0 +1,16 @@
+C:\Users\mukht\source\repos\Repina_WPF\bin\Debug\Repina_WPF.exe.config
+C:\Users\mukht\source\repos\Repina_WPF\bin\Debug\Repina_WPF.exe
+C:\Users\mukht\source\repos\Repina_WPF\bin\Debug\Repina_WPF.pdb
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF.csprojAssemblyReference.cache
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\App.g.cs
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF_MarkupCompile.cache
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF_MarkupCompile.lref
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\MainWindow.baml
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF.g.resources
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF.Properties.Resources.resources
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF.csproj.GenerateResource.cache
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF.exe
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Repina_WPF.pdb
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Контроллеры\UI_Item.g.cs
+C:\Users\mukht\source\repos\Repina_WPF\obj\Debug\Контроллеры\UI_Item.baml
